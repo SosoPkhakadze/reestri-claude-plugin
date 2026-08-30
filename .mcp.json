@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "reestri": {
+      "type": "http",
+      "url": "https://mcp.apify.com/?tools=reestri/ge-company-lookup,reestri/ge-person-search,reestri/am-company-lookup,reestri/company-screen",
+      "headers": {
+        "Authorization": "Bearer ${APIFY_TOKEN}"
+      }
+    }
+  }
+}

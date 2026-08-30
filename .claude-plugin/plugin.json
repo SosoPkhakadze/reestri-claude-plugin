@@ -1,0 +1,13 @@
+{
+  "name": "reestri",
+  "description": "Public company registers of Georgia (country), Armenia and Moldova as MCP tools: company lookup, person-to-companies search, Armenian beneficial owners and public contracts, one-call screen. Pay per lookup via your Apify account.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Soso Pkhakadze",
+    "url": "https://github.com/SosoPkhakadze"
+  },
+  "homepage": "https://apify.com/reestri",
+  "repository": "https://github.com/SosoPkhakadze/reestri-claude-plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "kyc", "company-registry", "georgia", "armenia", "moldova", "beneficial-owners", "due-diligence"]
+}

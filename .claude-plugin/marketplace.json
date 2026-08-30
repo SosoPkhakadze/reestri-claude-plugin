@@ -1,0 +1,17 @@
+{
+  "name": "reestri",
+  "description": "Reestri: public company registers of Georgia, Armenia and Moldova as MCP tools for Claude Code.",
+  "owner": {
+    "name": "Soso Pkhakadze",
+    "url": "https://github.com/SosoPkhakadze"
+  },
+  "plugins": [
+    {
+      "name": "reestri",
+      "source": "./",
+      "description": "Public company registers of Georgia (country), Armenia and Moldova as MCP tools, plus a KYC screening skill. Pay per lookup via your Apify account.",
+      "version": "0.1.0",
+      "author": { "name": "Soso Pkhakadze" }
+    }
+  ]
+}
